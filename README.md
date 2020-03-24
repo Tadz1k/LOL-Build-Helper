@@ -1,5 +1,6 @@
 # LOL-Build-Helper
 A simple, windowed program that displays the basic build of League of Legends champion.  
+Script is scrapping builds from <i>rankedboost.com</i>  
 <p align="center">
   <img src="https://i.imgur.com/EajVUqX.png">  
 </p>  
